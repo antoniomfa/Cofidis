@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E9953-4778-4754-B9B3-2348600985FA}|TEST\\TESTS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\test\\tests\\credittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8E9953-4778-4754-B9B3-2348600985FA}|TEST\\TESTS.csproj|solutionrelative:test\\tests\\credittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\servicelayer\\implementations\\creditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|solutionrelative:servicelayer\\implementations\\creditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\servicelayer\\implementations\\chavemoveldigitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|solutionrelative:servicelayer\\implementations\\chavemoveldigitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BAD67E-AFA0-4189-85CF-768CA47939E5}|WEBAPI\\WEBAPI.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\webapi\\controllers\\creditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BAD67E-AFA0-4189-85CF-768CA47939E5}|WEBAPI\\WEBAPI.csproj|solutionrelative:webapi\\controllers\\creditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\servicelayer\\interfaces\\icreditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|solutionrelative:servicelayer\\interfaces\\icreditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\servicelayer\\interfaces\\ichavemoveldigitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385AC5EA-96C2-4633-B035-3577FE5D54C7}|SERVICELAYER\\SERVICES.csproj|solutionrelative:servicelayer\\interfaces\\ichavemoveldigitalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDA8CDA-9125-4FAD-94D6-B2C00D8D585C}|DATAACCESS\\DATAACCESS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\dataaccess\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDA8CDA-9125-4FAD-94D6-B2C00D8D585C}|DATAACCESS\\DATAACCESS.csproj|solutionrelative:dataaccess\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E9953-4778-4754-B9B3-2348600985FA}|TEST\\TESTS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\test\\mock\\usermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8E9953-4778-4754-B9B3-2348600985FA}|TEST\\TESTS.csproj|solutionrelative:test\\mock\\usermock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDA8CDA-9125-4FAD-94D6-B2C00D8D585C}|DATAACCESS\\DATAACCESS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\dataaccess\\repo\\cofidisrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDA8CDA-9125-4FAD-94D6-B2C00D8D585C}|DATAACCESS\\DATAACCESS.csproj|solutionrelative:dataaccess\\repo\\cofidisrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDA8CDA-9125-4FAD-94D6-B2C00D8D585C}|DATAACCESS\\DATAACCESS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\dataaccess\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDA8CDA-9125-4FAD-94D6-B2C00D8D585C}|DATAACCESS\\DATAACCESS.csproj|solutionrelative:dataaccess\\models\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8E9953-4778-4754-B9B3-2348600985FA}|TEST\\TESTS.csproj|c:\\users\\ant\u00F3nio\\source\\repos\\cofidis\\test\\mock\\creditmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8E9953-4778-4754-B9B3-2348600985FA}|TEST\\TESTS.csproj|solutionrelative:test\\mock\\creditmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\TEST\\Tests\\CreditTests.cs",
+              "RelativeDocumentMoniker": "TEST\\Tests\\CreditTests.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\TEST\\Tests\\CreditTests.cs",
+              "RelativeToolTip": "TEST\\Tests\\CreditTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:24:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICreditManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Interfaces\\ICreditManager.cs",
+              "RelativeDocumentMoniker": "SERVICELAYER\\Interfaces\\ICreditManager.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Interfaces\\ICreditManager.cs",
+              "RelativeToolTip": "SERVICELAYER\\Interfaces\\ICreditManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:49:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Implementations\\CreditManager.cs",
+              "RelativeDocumentMoniker": "SERVICELAYER\\Implementations\\CreditManager.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Implementations\\CreditManager.cs",
+              "RelativeToolTip": "SERVICELAYER\\Implementations\\CreditManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAawCQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:51:45.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChaveMovelDigitalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Implementations\\ChaveMovelDigitalManager.cs",
+              "RelativeDocumentMoniker": "SERVICELAYER\\Implementations\\ChaveMovelDigitalManager.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Implementations\\ChaveMovelDigitalManager.cs",
+              "RelativeToolTip": "SERVICELAYER\\Implementations\\ChaveMovelDigitalManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:00:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditController.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\WEBAPI\\Controllers\\CreditController.cs",
+              "RelativeDocumentMoniker": "WEBAPI\\Controllers\\CreditController.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\WEBAPI\\Controllers\\CreditController.cs",
+              "RelativeToolTip": "WEBAPI\\Controllers\\CreditController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:54:55.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChaveMovelDigitalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Interfaces\\IChaveMovelDigitalManager.cs",
+              "RelativeDocumentMoniker": "SERVICELAYER\\Interfaces\\IChaveMovelDigitalManager.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\SERVICELAYER\\Interfaces\\IChaveMovelDigitalManager.cs",
+              "RelativeToolTip": "SERVICELAYER\\Interfaces\\IChaveMovelDigitalManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:52:57.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\DATAACCESS\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "DATAACCESS\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\DATAACCESS\\Models\\UserData.cs",
+              "RelativeToolTip": "DATAACCESS\\Models\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:26:22.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\DATAACCESS\\Models\\Credit.cs",
+              "RelativeDocumentMoniker": "DATAACCESS\\Models\\Credit.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\DATAACCESS\\Models\\Credit.cs",
+              "RelativeToolTip": "DATAACCESS\\Models\\Credit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:02:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreditMock.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\TEST\\Mock\\CreditMock.cs",
+              "RelativeDocumentMoniker": "TEST\\Mock\\CreditMock.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\TEST\\Mock\\CreditMock.cs",
+              "RelativeToolTip": "TEST\\Mock\\CreditMock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:38:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserMock.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\TEST\\Mock\\UserMock.cs",
+              "RelativeDocumentMoniker": "TEST\\Mock\\UserMock.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\TEST\\Mock\\UserMock.cs",
+              "RelativeToolTip": "TEST\\Mock\\UserMock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:39:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CofidisRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\DATAACCESS\\Repo\\CofidisRepo.cs",
+              "RelativeDocumentMoniker": "DATAACCESS\\Repo\\CofidisRepo.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F3nio\\source\\repos\\Cofidis\\DATAACCESS\\Repo\\CofidisRepo.cs",
+              "RelativeToolTip": "DATAACCESS\\Repo\\CofidisRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:26:26.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

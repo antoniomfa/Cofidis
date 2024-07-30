@@ -1,0 +1,10 @@
+-- Assuming table names as Credit and UserData
+
+SELECT c.Id, c.Name
+CASE
+    WHEN u.MonthlyIncome > 1000 THEN 1000
+    WHEN u.MonthlyIncome > 2000 THEN 2000
+    ELSE 5000
+END AS CreditLimit
+FROM Credit c
+INNER JOIN UserData u ON c.User = u.Id

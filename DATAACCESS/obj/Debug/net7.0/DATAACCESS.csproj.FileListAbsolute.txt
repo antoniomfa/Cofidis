@@ -1,0 +1,12 @@
+C:\Users\António\source\repos\Cofidis\DATAACCESS\bin\Debug\net7.0\DATAACCESS.deps.json
+C:\Users\António\source\repos\Cofidis\DATAACCESS\bin\Debug\net7.0\DATAACCESS.dll
+C:\Users\António\source\repos\Cofidis\DATAACCESS\bin\Debug\net7.0\DATAACCESS.pdb
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\DATAACCESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\DATAACCESS.AssemblyInfoInputs.cache
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\DATAACCESS.AssemblyInfo.cs
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\DATAACCESS.dll
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\refint\DATAACCESS.dll
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\DATAACCESS.pdb
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\ref\DATAACCESS.dll
+C:\Users\António\source\repos\Cofidis\DATAACCESS\obj\Debug\net7.0\DATAACCESS.csproj.AssemblyReference.cache
